@@ -19,3 +19,5 @@ Contributors
 - Sunny Jovita 
 - Calvin Scorpiano Halim 
 - Mileno Valdo Elvano 
+
+Video tutorial: https://youtu.be/gbzbOVmACW4
